@@ -1,7 +1,7 @@
-# go to localhost:1111/graphql
+## Project initialized with Spring Initializr with Spring JPA
+## Added dependency to graphql-kotlin-spring-server
 
-Project initialized with Spring Initializr with Spring JPA
-Added dependency to graphql-kotlin-spring-server
+UI at : localhost:1111/graphql
 
 To reproduce :
 
